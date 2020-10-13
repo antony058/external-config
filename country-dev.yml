@@ -1,0 +1,13 @@
+country:
+  max: 50
+  default-name: 'UK'
+  country-codes:
+    RU:
+      RUS: 1
+      RUSS: 3
+    UA:
+      UAK: 1
+      UAKKK: 3
+    USA:
+      USAA: 1
+      USAAA: 2

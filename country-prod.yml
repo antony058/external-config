@@ -1,0 +1,3 @@
+country:
+  max: 100
+  default-name: 'USA'
